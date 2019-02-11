@@ -1,3 +1,6 @@
+"""First Selenium file- 02/12/2019
+Test program for chrome configuration"""
+
 from selenium import webdriver
 import time
 from selenium.webdriver.common.keys import Keys
